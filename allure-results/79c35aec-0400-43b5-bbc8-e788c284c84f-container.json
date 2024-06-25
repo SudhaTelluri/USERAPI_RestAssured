@@ -1,0 +1,1 @@
+{"uuid":"79c35aec-0400-43b5-bbc8-e788c284c84f","name":"Scenario: Verify that the Admin creates a new User with valid credentials","children":["04b0c75a-ae5b-4003-9e9b-adcbc2b3b183"],"befores":[],"afters":[],"start":1719344365289,"stop":1719344370478}

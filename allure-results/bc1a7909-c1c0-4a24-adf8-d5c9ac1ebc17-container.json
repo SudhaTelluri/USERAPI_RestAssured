@@ -1,0 +1,1 @@
+{"uuid":"bc1a7909-c1c0-4a24-adf8-d5c9ac1ebc17","name":"Scenario: Check if Admin able to retrieve all user details with valid endpoint and valid authorization","children":["a5e69462-01d8-42f9-b86d-9729b94b5c82"],"befores":[],"afters":[],"start":1719337999690,"stop":1719338000612}

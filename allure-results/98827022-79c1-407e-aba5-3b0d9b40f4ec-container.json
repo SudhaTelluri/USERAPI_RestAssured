@@ -1,0 +1,1 @@
+{"uuid":"98827022-79c1-407e-aba5-3b0d9b40f4ec","name":"Scenario: Check if Admin able to update user details with valid userId and valid request body","children":["1dc31604-185f-4ef2-8056-468039af0d52"],"befores":[],"afters":[],"start":1719338125948,"stop":1719338126620}
